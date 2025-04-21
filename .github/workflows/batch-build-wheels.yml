@@ -5,7 +5,7 @@ on:
     inputs:
       versions:
         description: 'Version tag of flash-attention to build: v2.7.4.post1'
-        default: 'v2.7.4,v2.7.4.post1'
+        default: 'v2.7.4.post1_cp312_cu126'
         required: true
         type: string
 
